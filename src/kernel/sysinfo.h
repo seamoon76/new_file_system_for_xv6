@@ -1,0 +1,4 @@
+
+struct sysinfo {
+    int freemem;
+};

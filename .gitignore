@@ -1,0 +1,17 @@
+src/*~
+src/_*
+src/*.o
+src/*.d
+src/*.asm
+src/*.sym
+src/*.img
+src/vectors.S
+src/bootblock
+src/entryother
+src/initcode
+src/initcode.out
+src/kernelmemfs
+src/kernel/kernel
+src/user/usys.S
+src/.gdbinit
+.vscode
